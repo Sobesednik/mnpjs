@@ -1,0 +1,3 @@
+const mnpjs = require('./')
+
+mnpjs()

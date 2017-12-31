@@ -1,0 +1,24 @@
+{
+  "name": "mnpjs",
+  "version": "0.1.0",
+  "description": "mnpjs.org website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sobesednik/mnpjs.git"
+  },
+  "keywords": ["mnpjs"],
+  "author": "Anton <anton@sobes.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sobesednik/mnpjs/issues"
+  },
+  "homepage": "https://github.com/Sobesednik/mnpjs#readme",
+  "devDependencies": {
+    "zoroaster": "0.4.6"
+  }
+}
